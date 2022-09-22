@@ -15,4 +15,4 @@
 - 	🚧  Node.JS
 
 ##  🤝 Sto lavorando con il mio team a... 
- [Il clone del sito Electronic Arts](https://github.com/ErasmoSalsano/ea-clone.git).
+🎮 [Il clone del sito Electronic Arts](https://github.com/ErasmoSalsano/ea-clone.git).
