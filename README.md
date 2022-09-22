@@ -3,7 +3,7 @@
 # Chi sono...
 ## Ciao, Sono Erasmo-Salsano e la passione per i computer mi ha spinto ad interessarmi allo sviluppo web, quindi ad iniziare un percorso formativo per addentrarmi in questo mondo.
 
-###Attualmente sto affrontando un corso intensivo di 6 mesi per assimilare le basi dello sviluppo web.
+### Attualmente sto affrontando un corso intensivo di 6 mesi per assimilare le basi dello sviluppo web.
 
 ## Linguaggi affrontati:
 - 	:heavy_check_mark:  HTML5
