@@ -10,8 +10,8 @@
 - 	:heavy_check_mark:  CSS
 - 	:heavy_check_mark:  SCSS
 - 	:heavy_check_mark:  Javascript
-- 	🚧  TypeScrip
-- 	🚧  React
+- 	:heavy_check_mark:  TypeScrip
+- 	:heavy_check_mark:  React
 - 	🚧  Node.JS
 
 ##  🤝 Sto lavorando con il mio team a... 
