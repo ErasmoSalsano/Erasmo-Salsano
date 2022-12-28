@@ -1,18 +1,19 @@
-## Benvenuti 🙂
+# Benvenuti 🙂
 
-# Chi sono...
-## Ciao, Sono Erasmo Salsano e la passione per i computer mi ha spinto ad interessarmi allo sviluppo web, quindi ad iniziare un percorso formativo per addentrarmi in questo mondo.
+## Sono Erasmo Salsano
 
-### Attualmente sto affrontando un corso intensivo di 6 mesi per assimilare le basi dello sviluppo web.
+## La passione per i computer mi ha spinto ad interessarmi allo sviluppo web, quindi ad iniziare un percorso formativo per addentrarmi in questo mondo.
 
-## Linguaggi affrontati:
-- 	:heavy_check_mark:  HTML5
-- 	:heavy_check_mark:  CSS
-- 	:heavy_check_mark:  SCSS
-- 	:heavy_check_mark:  Javascript
-- 	:heavy_check_mark:  TypeScrip
-- 	:heavy_check_mark:  React
-- 	🚧  Node.JS
+### Ho appena concluso un corso intensivo di 6 mesi per assimilare le basi dello sviluppo web.
+### Al momento continuo a lavorare sui linguaggi affrontati, per migliorarmi.
 
-##  🤝 Sto lavorando con il mio team a... 
-🎮 [Il clone del sito Electronic Arts](https://github.com/ErasmoSalsano/ea-react).
+![HTML](https://github.com/ErasmoSalsano/ErasmoSalsano/blob/main/icons/html.svg)
+![CSS](https://github.com/ErasmoSalsano/ErasmoSalsano/blob/main/icons/css3.svg)
+![SASS](https://github.com/ErasmoSalsano/ErasmoSalsano/blob/main/icons/sass.svg)
+![Javascript](https://github.com/ErasmoSalsano/ErasmoSalsano/blob/main/icons/javascript.svg)
+![TypeScript](https://github.com/ErasmoSalsano/ErasmoSalsano/blob/main/icons/typescript.svg)
+![React.js](https://github.com/ErasmoSalsano/ErasmoSalsano/blob/main/icons/react.svg)
+![Node.js](https://github.com/ErasmoSalsano/ErasmoSalsano/blob/main/icons/nodejs2.svg)
+
+###  🤝 In contemporanea con lo studio dei linguaggi utilizzati, ho lavorato col mio team a questo progetto:
+🎮 [Clone del sito Electronic Arts](https://github.com/ErasmoSalsano/ea-react).
