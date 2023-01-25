@@ -4,7 +4,7 @@
 
 ## La passione per i computer mi ha spinto ad interessarmi allo sviluppo web, quindi ad iniziare un percorso formativo per addentrarmi in questo mondo.
 
-### Ho appena concluso un corso intensivo di 6 mesi per assimilare le basi dello sviluppo web.
+### Ho appena concluso un corso intensivo di sette mesi per assimilare le basi dello sviluppo web.
 ### Al momento continuo a lavorare sui linguaggi affrontati, per migliorarmi.
 
 ![HTML](https://github.com/ErasmoSalsano/ErasmoSalsano/blob/main/icons/html.svg)
